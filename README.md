@@ -1,4 +1,4 @@
-ChatGPT
+
 👋 Hi, I'm Abel Bekele, an App Developer with a passion for the Flutter framework and a Backend Developer specializing in the Django framework.
 
 👀 I'm deeply interested in crafting problem-solving solutions that work seamlessly across various platforms using Flutter. I'm also dedicated to developing flexible and robust backends that enhance the overall UI/UX experience.
