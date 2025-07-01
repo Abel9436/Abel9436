@@ -11,6 +11,8 @@
 
 
 ![Snake animation](https://raw.githubusercontent.com/Abel9436/Abel9436/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Abel9436/Abel9436/output/github-contribution-grid-snake.gif)
+
 
   
 
