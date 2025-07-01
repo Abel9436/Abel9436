@@ -4,9 +4,10 @@
 
 <p align="center">
   <a href="https://github.com/Abel9436">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Abel+Bekele;Flutter+%26+Django+Developer;Problem-Solving+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Abel+Bekele;Flutter+%26+Django+Developer;Problem-Solving+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
+
 
 <p align="center">
   <em>A passionate App & Backend Developer dedicated to crafting seamless, cross-platform solutions and robust backend systems.<br /> I transform complex problems into elegant, high-performance applications.</em>
