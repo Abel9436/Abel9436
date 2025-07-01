@@ -10,6 +10,11 @@
 📫 Reach out to me at abelbk06@gmail.com, and let's start working on the next big thing!
 
 
+![Snake animation](https://raw.githubusercontent.com/Abel9436/Abel9436/output/github-contribution-grid-snake.svg)
+
+  
+
+
 
 <!---
 Abel9436/Abel9436 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
