@@ -38,7 +38,7 @@
 <br />
 
 <div align="center">
-  <h3> <code>// technical_arsenal</code> </h3>
+  <h3> <code>// Software Developer </code> </h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,dart,js,ts,cpp,php&perline=6&theme=dark" />
   </a>
